@@ -1,0 +1,2 @@
+sudo -u vault /apps/vault/bin/vault server -config=/apps/vault/conf/vault.hcl
+error loading configuration from /apps/vault/conf/vault.hcl: At 4:4: nested object expected: LBRACE got: ASSIG
